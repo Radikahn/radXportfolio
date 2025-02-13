@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "My First Blog Post",
+    "date": "2023-05-15",
+    "content": "Welcome to my blog! This is where I'll be sharing my thoughts on software development, Minecraft server administration, and various tech-related topics. Stay tuned for more content!",
+    "image": "/placeholder.svg?height=300&width=400"
+  },
+  {
+    "id": 2,
+    "title": "Setting Up a Minecraft Server",
+    "date": "2023-05-20",
+    "content": "In this post, I'll walk you through the process of setting up your own Minecraft server. We'll cover everything from choosing the right hardware to configuring plugins for an enhanced gameplay experience.",
+    "image": "/placeholder.svg?height=300&width=400"
+  }
+]
