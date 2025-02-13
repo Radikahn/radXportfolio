@@ -44,14 +44,14 @@ export function SiteHeader() {
           className={`h-full w-auto flex-shrink-0 transition-all duration-300 ${visible ? "scale-100" : "scale-75"}`}
         >
           <Link href="/" className="flex items-center h-full">
-            <Image
-              src = "/HomeLogo.png"
+            {/* <Image
+              src = ""
               alt="RS Logo"
               width={203}
               height={234}
               className="h-full w-auto object-contain transition-all duration-300"
               priority
-            />
+            /> */}
           </Link>
         </div>
 
